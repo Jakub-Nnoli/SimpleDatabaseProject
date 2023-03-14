@@ -1,4 +1,4 @@
-# SimpleDatabaseProj
+# SimpleDatabaseProject
 1st term final project - Simple Student Database
 
 Project done in ItelliJ IDEA
